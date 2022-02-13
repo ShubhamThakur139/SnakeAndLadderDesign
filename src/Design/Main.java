@@ -1,10 +1,8 @@
 package Design;
-
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 //        Taking snake input
         int totalSnakes = sc.nextInt();
@@ -13,7 +11,6 @@ public class Main {
             int tailPoint = sc.nextInt();
             Board.board.put(headPoint,tailPoint);
         }
-
 //        Taking ladders input
         int totalLadders = sc.nextInt();
         for(int i=0;i<totalLadders;i++){
@@ -29,8 +26,6 @@ public class Main {
             User user = new User(name, 0);
             users[i] = user;
         }
-
         Board.play(users,players);
-
     }
 }
