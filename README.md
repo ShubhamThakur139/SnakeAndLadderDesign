@@ -62,3 +62,9 @@
 
 ## Output
 
+1.  Taking Input
+    ![Output 1](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image1.png)
+2.  Taking Input
+    ![Output 2](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image2.png)
+3.  Output Demo GIF
+    ![Output 3](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image3.gif)
